@@ -1,3 +1,4 @@
 # Python education
 
-1. ![Операторы в Python](/img/1.png)
+### Операторы и операнды в Python
+![Операторы в Python](/img/1.png)
