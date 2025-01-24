@@ -1,4 +1,6 @@
 '''Education file.'''
 
-# * Конкатенация слов.
-print('Winter ' + 'came' + 'for ' + 'the ' + 'House ' + 'of ' + 'Frey.')
+# * Кодировка.
+print(chr(126))
+print(chr(94))
+print(chr(37))

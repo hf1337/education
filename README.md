@@ -98,3 +98,16 @@ print('Prime')
 # Простой пример конкатенации.
 print('Winter ' + 'came' + 'for ' + 'the ' + 'House ' + 'of ' + 'Frey.')
 ```
+
+***
+
+### 8. Кодировка
+
+Существуют разные типы кодирования, такие как UTF-8 или ASCII. Каждый символ закодирован цифрой.
+
+Пример вывода символа из кодировки [ASCII](https://www.cs.cmu.edu/%7Epattis/15-1XX/common/handouts/ascii.html):
+
+```python
+# Исмвол '~' в кодировке ASCII
+print(chr(126))
+```
