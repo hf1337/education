@@ -1,4 +1,4 @@
 '''Education file.'''
 
-# * Кавычки.
-print('"Khal Drogo\'s favorite word is "athjahakar""')
+# * Экранированнные последовательности. Перенос на другую строку \n.
+print('- Did Joffrey agree?\n- He did. He also said "I love using \\n".')
