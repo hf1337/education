@@ -111,3 +111,17 @@ print('Winter ' + 'came' + 'for ' + 'the ' + 'House ' + 'of ' + 'Frey.')
 # Исмвол '~' в кодировке ASCII
 print(chr(126))
 ```
+
+***
+
+### 9. Переменные
+
+```python
+# Вместо использования одного слова несколько раз..
+print('Mother!')
+print('Mother!')
+
+# можно использовать переменную, которой присвоеное это значение.
+greeting = 'Mother!'
+print(greeting)
+```

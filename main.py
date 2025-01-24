@@ -1,6 +1,5 @@
 '''Education file.'''
 
-# * Кодировка.
-print(chr(126))
-print(chr(94))
-print(chr(37))
+# * Переменные.
+motto = 'What Is Dead May Never Die!'
+print(motto)
