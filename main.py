@@ -1,4 +1,4 @@
 '''Education file.'''
 
-# TODO: Узнать больше об оптимизации чисел с плавающей точкой.
-print(0.39 + 0.22)
+# * Кавычки.
+print('"Khal Drogo\'s favorite word is "athjahakar""')
