@@ -1,7 +1,4 @@
 '''Education file.'''
 
-# * Измененение переменных.
-name = 'Brienna'
-
-name = 'anneirB'
-print(name)
+# * Выбор имени переменной.
+my_brothers_count = 1
