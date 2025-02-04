@@ -1,13 +1,10 @@
 """Education file."""
 
-euros_count = 100
+info = "We couldn't verify your mother's maiden name."
+intro = "Here is important information about your account security."
 
-# Евро в долларах
-dollar_count = 100 * 1.25
-print(dollar_count)
+first_name = 'Joffrey'
+greeting = 'Hello'
 
-# Доллары в юанях
-yuans_count = dollar_count * 6.91
-print(yuans_count)
-
-print('Euros: ' + str(euros_count) + ' ' + 'Dollars: ' + str(dollar_count) + ' ' + 'Yuans: ' + str(yuans_count) + ' ')
+print(greeting + ', ' + first_name + '!')
+print(intro + '\n' + info)
