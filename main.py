@@ -1,6 +1,8 @@
 """Education file."""
 
-first_num = 20
-second_num = -100
+king = "Rooms in King Balon's Castles:"
 
-print(first_num * second_num)
+number_of_castles = 6
+rooms_per_castle = 17
+print(king)
+print(number_of_castles * rooms_per_castle)
